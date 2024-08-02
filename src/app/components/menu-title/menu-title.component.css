@@ -1,17 +1,17 @@
-.container__menu-title{
-  color: black;
-}
+
 
 .container__menu-title> h1{
-  margin-top: 10px;
-  margin-bottom:10px ;
-  font-size: 90px;
-  font-family: 'Segoe UI';
+  background-color: #997752;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 40px;
+  font-family: 'Calisto MT';
   display: flex;
   justify-content: center;
 }
 
 .container__menu-title>hr{
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
+

@@ -3,11 +3,20 @@
   margin:0;
   padding: 0;
   box-sizing: border-box;
-  background-color:black;
-  color:white;
+  background-color: rgb(241, 230, 230);
+  color:black;
   font-family: 'Segoe UI';
 }
 
 a{
   text-decoration: none;
 }
+
+.container__menu-title>h1{
+  padding-top: 25PX;
+  padding-bottom: 25PX;
+  color:white;
+  font-family:'Clibri';
+
+}
+
